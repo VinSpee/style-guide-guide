@@ -7,13 +7,17 @@ body
 	margin: .5rem
 
 main
-	+breakpoint($break)
-
-ul
 	display: flex
 	flex-direction: column
 	justify-content: space-between
+	margin-bottom: 1rem
 	+breakpoint($break)
-		display: block
 		flex-direction: row
 		flex-wrap: wrap
+		align-content: center
+		max-width: 958px
+		+margin-x(auto)
+	+breakpoint(580px)
+		max-width: 580px
+	+breakpoint(1060px)
+		max-width: 913px
