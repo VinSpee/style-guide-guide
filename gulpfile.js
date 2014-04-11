@@ -48,8 +48,9 @@ gulp.task('scripts', function() {
 gulp.task('styles', function() {
 	return gulp.src(sources.styles)
 		.pipe(plugins.rubySass({
-			loadPath: ['bower_components/modular-scale/stylesheets', 'bower_components/compass-breakpoint/stylesheets'],
-			require: ['modular-scale', 'breakpoint']
+			trace: true,
+			loadPath: ['bower_components/compass-breakpoint/stylesheets', 'bower_components/modular-scale/stylesheets'],
+			bundleExec: true
 		}))
 		.pipe(plugins.autoprefixer("last 2 version", "> 1%"))
 		/*.pipe(plugins.csslint({

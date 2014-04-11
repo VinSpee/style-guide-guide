@@ -6,15 +6,14 @@ html
 body
 	margin: .5rem
 
-.page
-
 main
-	display: flex
-	flex-direction: column
 	+breakpoint($break)
-		flex-direction: row
-		flex-wrap: wrap
 
 ul
+	display: flex
+	flex-direction: column
+	justify-content: space-between
 	+breakpoint($break)
-		
+		display: block
+		flex-direction: row
+		flex-wrap: wrap
