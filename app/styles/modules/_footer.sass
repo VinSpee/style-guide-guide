@@ -1,4 +1,19 @@
 footer
+	font-size: .7rem
+	position: fixed
+	bottom: 0
+	width: 100%
+	+margin-x(auto)
+	background: nth($tint, 1)
 	color: nth($shade, 2)
-	padding-top: .125rem
 	box-shadow: 0 -3px 0 0 nth($primary, 1)
+	+padding-x(1rem)
+	+breakpoint($break)
+		padding-top: .125rem
+		p
+			margin: 0
+	a
+		color: nth($secondary, 2)
+	p
+		margin: 0
+		padding: .25rem 0
