@@ -1,0 +1,20 @@
+html
+	@extend %fonts__copy
+	background: nth($primary, 2)
+	color: nth($tint, 2)
+
+body
+	margin: .5rem
+
+.page
+
+main
+	display: flex
+	flex-direction: column
+	+breakpoint($break)
+		flex-direction: row
+		flex-wrap: wrap
+
+ul
+	+breakpoint($break)
+		
