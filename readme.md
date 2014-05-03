@@ -28,11 +28,13 @@ A current list of styleguide genorators useful for creating your own "bootstrap"
 - [Fabricator](http://resource.github.io/fabricator/)
 - [KSS](https://github.com/PhilJ/gulp-kss)
 - [StyleDocco](https://github.com/konitter/gulp-styledocco)
+- [LivingStyleGuide (Gulp)](https://github.com/efacilitation/gulp-livingstyleguide)
 
 ## Ruby
 - [Hologram](http://trulia.github.io/hologram/)
 - [KSS](http://warpspire.com/kss/styleguides/)
 - [Pattern Primer](https://github.com/micdijkstra/Pattern-Primer-Ruby)
+- [LivingStyleGuide](http://livingstyleguide.org)
 
 ## PHP
 - [BareBones](http://barebones.paulrobertlloyd.com/)
