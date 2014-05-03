@@ -41,6 +41,7 @@ A current list of styleguide genorators useful for creating your own "bootstrap"
 - [Pattern Lab](http://patternlab.io/)
 - [Pattern Primer](https://github.com/adactio/Pattern-Primer)
 - [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/)
+- [YSS](http://yago.io/project/yss/)
 
 
 # What are you talking about?
