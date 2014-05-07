@@ -12,6 +12,8 @@ A current list of styleguide genorators useful for creating your own "bootstrap"
 - [Pattern Primer](https://github.com/codetwizzle/Pattern-Primer-on-Node)
 - [StyleDocco](https://github.com/jacobrask/styledocco)
 - [StyleDown](https://github.com/rstacruz/styledown)
+- [StyleDown](https://github.com/rstacruz/styledown)
+- [Styleguide.js](https://github.com/eightmedia/styleguide.js)
 
 ### Grunt
 - [Assemble](http://assemble.io/)
@@ -22,6 +24,7 @@ A current list of styleguide genorators useful for creating your own "bootstrap"
 - [SourceJS](http://sourcejs.com/)
 - [StyleDocco] (https://github.com/indieisaconcept/grunt-styleguide)
 - [Style Prototype](https://github.com/team-sass/generator-style-prototype)
+- [Styleguide.js](https://github.com/eightmedia/grunt-styleguidejs)
 
 ### Gulp
 - [Assemble](https://github.com/assemble/gulp-assemble)
