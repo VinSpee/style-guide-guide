@@ -35,6 +35,7 @@ A current list of styleguide genorators useful for creating your own "bootstrap"
 - [KSS](http://warpspire.com/kss/styleguides/)
 - [Pattern Primer](https://github.com/micdijkstra/Pattern-Primer-Ruby)
 - [LivingStyleGuide](http://livingstyleguide.org)
+- [Vivus](http://vivus.io)
 
 ## PHP
 - [BareBones](http://barebones.paulrobertlloyd.com/)
