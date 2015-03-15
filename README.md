@@ -10,6 +10,7 @@ template: style-guide-guide.hbs
 - [Pattern Primer](https://github.com/codetwizzle/Pattern-Primer-on-Node)
 - [StyleDocco](https://github.com/jacobrask/styledocco)
 - [StyleDown](https://github.com/rstacruz/styledown)
+- [Styleguide.js](https://github.com/eightmedia/styleguide.js)
 
 ## Gulp
 - [Assemble](https://github.com/assemble/gulp-assemble)
@@ -27,6 +28,7 @@ template: style-guide-guide.hbs
 - [SourceJS](http://sourcejs.com/)
 - [StyleDocco](https://github.com/indieisaconcept/grunt-styleguide)
 - [Style Prototype](https://github.com/team-sass/generator-style-prototype)
+- [Styleguide.js](https://github.com/EightMedia/grunt-styleguidejs)
 
 ## Ruby
 - [Hologram](http://trulia.github.io/hologram/)
