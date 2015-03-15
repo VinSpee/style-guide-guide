@@ -11,6 +11,7 @@ template: style-guide-guide.hbs
 - [StyleDocco](https://github.com/jacobrask/styledocco)
 - [StyleDown](https://github.com/rstacruz/styledown)
 - [Styleguide.js](https://github.com/eightmedia/styleguide.js)
+- [Sassdoc](http://sassdoc.com/)
 
 ## Gulp
 - [Assemble](https://github.com/assemble/gulp-assemble)
@@ -18,6 +19,7 @@ template: style-guide-guide.hbs
 - [KSS](https://github.com/PhilJ/gulp-kss)
 - [StyleDocco](https://github.com/konitter/gulp-styledocco)
 - [LivingStyleGuide](https://github.com/efacilitation/gulp-livingstyleguide)
+- [SassDoc](http://sassdoc.com/gulp/)
 
 ## Grunt
 - [Assemble](http://assemble.io/)
@@ -29,6 +31,7 @@ template: style-guide-guide.hbs
 - [StyleDocco](https://github.com/indieisaconcept/grunt-styleguide)
 - [Style Prototype](https://github.com/team-sass/generator-style-prototype)
 - [Styleguide.js](https://github.com/EightMedia/grunt-styleguidejs)
+- [SassDoc](http://sassdoc.com/grunt/)
 
 ## Ruby
 - [Hologram](http://trulia.github.io/hologram/)
