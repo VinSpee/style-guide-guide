@@ -15,7 +15,7 @@ template: style-guide-guide.hbs
 
 ## Gulp
 - [Assemble](https://github.com/assemble/gulp-assemble)
-- [Fabricator](http://resource.github.io/fabricator/)
+- [Fabricator](http://fbrctr.github.io/)
 - [KSS](https://github.com/PhilJ/gulp-kss)
 - [StyleDocco](https://github.com/konitter/gulp-styledocco)
 - [LivingStyleGuide](https://github.com/efacilitation/gulp-livingstyleguide)
